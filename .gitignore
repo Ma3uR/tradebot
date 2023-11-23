@@ -1,0 +1,9 @@
+/.venv
+/.git
+/.idea
+**.env
+**__pycache__**
+**opt**
+example.log
+/data
+**tar.gz

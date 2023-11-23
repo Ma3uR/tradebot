@@ -1,0 +1,14 @@
+contourpy==1.1.1
+cycler==0.12.0
+fonttools==4.43.0
+kiwisolver==1.4.5
+matplotlib>=3.0.0
+numpy>=1.18.0
+packaging==23.2
+pandas==1.1.5  # Updated to a valid version number
+Pillow==10.0.1  # Confirm if this version is correct
+pyparsing==3.1.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+six==1.16.0
+tzdata==2023.3

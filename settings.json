@@ -1,0 +1,15 @@
+{
+  "b2": {
+    "source":"close",
+    "periods": 150
+  },
+  "s&a": {
+    "source":"close",
+    "smooth_period": 128,
+    "multiplier": 20
+  },
+  "long_tp_multiplier": 0.01,
+  "long_sl_multiplier": 0.004,
+  "short_tp_multiplier": 0.01,
+  "short_sl_multiplier": 0.004
+}

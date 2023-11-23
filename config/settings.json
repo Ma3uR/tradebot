@@ -1,0 +1,33 @@
+{
+  "strategies": {
+    "trade": {
+      "buy_trigger": 0,
+      "sell_trigger": 0
+    }
+  },
+  "backtesting": {
+    "backtest_period": "1mo",
+    "backtest_interval": "1m",
+    "backtest_quantity": 70,
+    "backtest_limit_fee": 0.012,
+    "backtest_market_fee": 0.03,
+    "backtest_frequency": 0,
+    "backtest_unbalance_limit": 0
+  },
+  "trading": {
+    "trading_period": "1mo",
+    "trading_interval": "1m",
+    "trading_quantity": 70,
+    "trading_frequency": 100,
+    "trading_unbalance_limit": 0.2
+  },
+  "indicator_params": {
+      "b2": {
+      "periods": 150
+    },
+    "s&a": {
+      "smooth_period": 128,
+      "multiplier": 20
+    }
+  }
+}
